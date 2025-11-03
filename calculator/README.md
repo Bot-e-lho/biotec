@@ -1,0 +1,1 @@
+# In practice, how was the process carried out to generate allele frequencies per population and calculate the genomic ancestry of an individual using data from the 1000 Genomes Project (phase 3) and the genotype obtained from the Infinium Global Screening Array v3.0 chip
